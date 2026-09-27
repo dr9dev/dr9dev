@@ -1,243 +1,402 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00D9FF,40:0066FF,100:001B44&text=DR9%20DEV&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:06121F,45:003B73,75:0066FF,100:00CFFF&text=DANIEL%20ROMEIRO&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=GEST%C3%83O%20%E2%80%A2%20PROCESSOS%20%E2%80%A2%20TECNOLOGIA&descAlignY=58&descSize=19"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=2500&color=00D9FF&center=true&vCenter=true&width=900&lines=Automa%C3%A7%C3%A3o+Inteligente;Intelig%C3%AAncia+Artificial;Linux+Power+User;Open+Source;Python;APIs;Sempre+Construindo+Algo+Novo"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=2300&color=00D9FF&center=true&vCenter=true&width=950&lines=Eu+ajudo+pequenos+neg%C3%B3cios+a+se+organizarem;Entender+%E2%86%92+Organizar+%E2%86%92+Construir+%E2%86%92+Evoluir;Gest%C3%A3o+%E2%80%A2+Processos+%E2%80%A2+Tecnologia;Tecnologia+quando+fizer+sentido.;Construindo+a+DR9+Gest%C3%A3o"/>
 
 <br><br>
 
-# ⚡ DR9 DEV
-
-### 🚀 Automação • Inteligência Artificial • Linux • Open Source
-
-Transformando tarefas repetitivas em soluções inteligentes.
-
-<br>
-
-<a href="https://github.com/dr9dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/romeiroceo">
+<img src="https://img.shields.io/badge/GitHub-romeiroceo-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/daniel-romeiro-9bb747418/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Daniel%20Romeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://www.youtube.com/@DevDR9">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/dr9.dev/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/romeiroceo/">
+<img src="https://img.shields.io/badge/Instagram-@romeiroceo-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=dr9dev&style=for-the-badge&color=00D9FF"/>
-
-<img src="https://img.shields.io/github/followers/dr9dev?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/dr9dev?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/last-commit/dr9dev/dr9dev?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Automation-0055FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=romeiroceo&style=for-the-badge&color=00BFFF"/>
 
 </div>
 
 ---
 
-# 👋 Bem-vindo ao meu GitHub
+# 👋 Oi, eu sou o Daniel.
 
-Sou apaixonado por tecnologia, automação e desenvolvimento de soluções inteligentes.
+**Eu gosto de tecnologia, mas meu ponto de partida não é a tecnologia. É o problema.**
 
-Meu foco é criar projetos que economizam tempo, resolvem problemas reais e tornam tarefas complexas mais simples através de software.
+Pequenos negócios costumam crescer no meio da correria:
 
-Aqui você encontrará projetos envolvendo:
+- 💬 atendimento espalhado
+- 📱 WhatsApp cheio
+- 📅 agendamentos perdidos
+- 📋 processos manuais
+- 🗂️ informações espalhadas
+- ⏱️ tempo gasto com tarefas repetitivas
 
-* 🤖 Inteligência Artificial
-* ⚡ Automação
-* 🐧 Linux
-* 🔗 APIs
-* 💻 Desenvolvimento Full Stack
-* 📊 Análise de Dados
-* 🚀 Open Source
-* ☁️ Infraestrutura
-* 🔒 Segurança
-* 🧠 Produtividade
+Quando tudo isso começa a pesar, a pergunta não deveria ser apenas **“qual ferramenta usar?”**
 
----
-# 💻 Sobre Mim
+A pergunta é:
 
-Sou desenvolvedor apaixonado por tecnologia e movido pelo desafio de criar soluções que fazem diferença no dia a dia.
+> **“O que está dificultando o negócio e como podemos tornar isso mais simples?”**
 
-Minha principal área de atuação é o desenvolvimento de ferramentas voltadas para automação, inteligência artificial, Linux e integração com APIs. Busco criar projetos que reduzam tarefas repetitivas, aumentem a produtividade e entreguem resultados reais.
-
-Atualmente estou expandindo o ecossistema **DR9 DEV**, reunindo projetos open source, ferramentas para desenvolvedores e soluções inteligentes voltadas para produtividade e inovação.
+É nesse espaço que gosto de trabalhar.
 
 ---
 
-# 🚀 Minha Missão
+# 🧭 Minha linha de trabalho
 
-Transformar ideias em soluções simples, eficientes e acessíveis, utilizando tecnologia para automatizar processos, otimizar tempo e compartilhar conhecimento com a comunidade.
+<div align="center">
 
----
+### 🔎 ENTENDER
+**↓**
+### 🧩 DIAGNOSTICAR
+**↓**
+### 📋 ORGANIZAR
+**↓**
+### ⚙️ CONSTRUIR
+**↓**
+### 🚀 EVOLUIR
 
-# 🎯 Especialidades
+</div>
+
+<br>
 
 <table>
 <tr>
+<td width="20%" align="center">
 
-<td align="center" width="25%">
+🔎
 
-### 🤖 Inteligência Artificial
+### Entender
 
-Desenvolvimento de soluções inteligentes utilizando IA para automação e produtividade.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡ Automação
-
-Criação de scripts, bots e sistemas para eliminar tarefas repetitivas.
+Como o negócio funciona hoje?
 
 </td>
 
-<td align="center" width="25%">
+<td width="20%" align="center">
 
-### 🐧 Linux
+🧩
 
-Ferramentas, administração, personalização e automação para ambientes Linux.
+### Diagnosticar
 
-</td>
-
-<td align="center" width="25%">
-
-### 🔗 APIs
-
-Integração entre plataformas, serviços web e desenvolvimento de soluções conectadas.
+Onde está o problema?
 
 </td>
 
+<td width="20%" align="center">
+
+📋
+
+### Organizar
+
+O que pode ser simplificado?
+
+</td>
+
+<td width="20%" align="center">
+
+⚙️
+
+### Construir
+
+Qual solução realmente faz sentido?
+
+</td>
+
+<td width="20%" align="center">
+
+🚀
+
+### Evoluir
+
+O que pode melhorar depois?
+
+</td>
+</tr>
+</table>
+
+> **A solução depende do problema.**
+
+---
+
+# 🏢 DR9 Gestão
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DR9-GEST%C3%83O-0066FF?style=for-the-badge&logoColor=white"/>
+
+### Gestão • Processos • Tecnologia
+
+**Soluções para quem empreende.**
+
+</div>
+
+A **DR9 Gestão** é o projeto empresarial que estou construindo a partir dessa visão.
+
+A proposta é aproximar **gestão, processos e tecnologia** da realidade de pequenos negócios.
+
+Não é começar vendendo uma ferramenta.
+
+É começar entendendo.
+
+<div align="center">
+
+`DIAGNÓSTICO` → `ORGANIZAÇÃO` → `SOLUÇÕES`
+
+</div>
+
+---
+
+# 💡 Tecnologia entra depois
+
+Eu trabalho com desenvolvimento, automação, APIs, IA, Linux, Docker e sistemas.
+
+Mas não quero colocar tecnologia em um negócio apenas porque ela existe.
+
+Quero usar tecnologia quando ela puder:
+
+<div align="center">
+
+| ⏱️ Economizar tempo | 🧩 Reduzir complexidade | 📋 Organizar processos | 🚀 Melhorar a operação |
+| :---: | :---: | :---: | :---: |
+
+</div>
+
+### Exemplos
+
+| Situação | Caminho possível |
+| :--- | :--- |
+| Atendimento desorganizado | 💬 Processo + organização |
+| Tarefas repetitivas | ⚙️ Automação |
+| Informações espalhadas | 🗂️ Organização + sistema |
+| Sistemas que não conversam | 🔗 APIs + integrações |
+| Operação crescendo | 📊 Processos + ferramentas |
+| Necessidade específica | 💻 Desenvolvimento |
+
+> **Tecnologia não é o objetivo. É uma ferramenta para chegar a uma solução.**
+
+---
+
+# 🚀 O que estou construindo
+
+Este GitHub é o registro de uma jornada.
+
+Aqui existem projetos que nasceram de:
+
+**problemas reais → ideias → testes → código → melhorias.**
+
+Alguns projetos estarão prontos.
+
+Outros estarão em desenvolvimento.
+
+Alguns serão experimentos.
+
+**Tudo isso faz parte de construir.**
+
+```text
+                 PROBLEMA
+                    │
+                    ▼
+               ENTENDER
+                    │
+                    ▼
+              ORGANIZAR
+                    │
+                    ▼
+               CONSTRUIR
+                    │
+                    ▼
+                TESTAR
+                    │
+                    ▼
+                MELHORAR
+                    │
+                    ▼
+                EVOLUIR
+```
+
+---
+
+# 🧰 O que gosto de construir
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+🤖
+
+### Automação
+
+Bots, scripts e ferramentas para reduzir trabalho repetitivo.
+
+</td>
+<td width="25%" align="center">
+
+🔗
+
+### Integrações
+
+APIs, webhooks e sistemas conectados.
+
+</td>
+<td width="25%" align="center">
+
+🖥️
+
+### Sistemas
+
+Aplicações, dashboards e ferramentas web.
+
+</td>
+<td width="25%" align="center">
+
+🐧
+
+### Linux
+
+Ambientes, servidores, scripts e automações.
+
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+
+🧠
+
+### IA
+
+Aplicações práticas e experimentação.
+
+</td>
+<td width="25%" align="center">
+
+📊
+
+### Processos
+
+Soluções para organizar informações e operações.
+
+</td>
+<td width="25%" align="center">
+
+🐳
+
+### Infraestrutura
+
+Docker, ambientes e servidores.
+
+</td>
+<td width="25%" align="center">
+
+🌎
+
+### Open Source
+
+Projetos e conhecimento compartilhados.
+
+</td>
 </tr>
 </table>
 
 ---
 
-# 🧰 O que gosto de desenvolver
-
-* 🤖 Bots inteligentes
-* ⚡ Ferramentas de automação
-* 🐧 Scripts para Linux
-* 🌐 APIs REST
-* 📂 Organizadores de arquivos
-* 📊 Dashboards
-* ☁️ Serviços em nuvem
-* 🔒 Ferramentas de segurança
-* 💻 Aplicações Full Stack
-* 🚀 Projetos Open Source
-
----
-
-# 💡 Filosofia
-
-> A melhor tecnologia é aquela que resolve problemas de forma simples.
-
-Acredito que software deve economizar tempo, reduzir complexidade e permitir que pessoas e empresas foquem no que realmente importa.
-
-Cada projeto desenvolvido busca unir desempenho, simplicidade, organização e facilidade de uso.
-
----
-
-# 🌎 Open Source
-
-Acredito no compartilhamento de conhecimento e no desenvolvimento colaborativo.
-
-Sempre que possível, publico projetos de código aberto para que outros desenvolvedores possam aprender, contribuir e evoluir junto com a comunidade.
-
----
-
-# 📚 Atualmente Estudando
-
-* 🧠 Inteligência Artificial aplicada
-* 🤖 Agentes autônomos
-* ⚡ Automação avançada
-* 🐧 Linux Server
-* ☁️ Cloud Computing
-* 🐳 Docker
-* 🔄 Integração entre APIs
-* 🔐 Segurança da Informação
-* 📈 Escalabilidade de aplicações
-
----
-
-# 📌 Objetivos para 2026
-
-* ✅ Expandir o ecossistema DR9 DEV
-* ✅ Publicar novos projetos Open Source
-* ✅ Criar ferramentas para Linux
-* ✅ Desenvolver soluções baseadas em IA
-* ✅ Compartilhar conhecimento através de conteúdo
-* ✅ Evoluir constantemente como desenvolvedor
-
----
-
-# ❤️ O que você encontrará neste perfil
-
-✔️ Projetos reais
-
-✔️ Código limpo
-
-✔️ Automação
-
-✔️ Inteligência Artificial
-
-✔️ Ferramentas para Linux
-
-✔️ Integrações com APIs
-
-✔️ Experimentos
-
-✔️ Aprendizado contínuo
-
-✔️ Soluções Open Source
-
----
-# 🛠️ Tecnologias & Ferramentas
+# 💻 Meu ambiente tecnológico
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,html,css,react,nextjs,express,tailwind" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,html,css,react,nextjs,express,tailwind"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,vscode,postman,mysql,sqlite,firebase" />
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,vscode,postman,mysql,sqlite,firebase"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Desenvolvimento** · **Automação** · **APIs** · **Linux** · **Docker** · **Banco de Dados** · **IA**
 
 </div>
 
 ---
 
-# 💻 Linguagens
+# ⚙️ Automação
+
+Uma das áreas que mais gosto de explorar.
+
+### Uso automação para:
+
+- 🤖 reduzir tarefas repetitivas
+- 📂 organizar arquivos e informações
+- 🔄 conectar serviços
+- 🔔 trabalhar com eventos e webhooks
+- 🌐 integrar APIs
+- ⏱️ automatizar rotinas
+- 💬 melhorar fluxos de atendimento
+
+---
+
+# 🤖 Inteligência Artificial
+
+Tenho interesse em IA principalmente pela possibilidade de transformar processos complexos em experiências mais simples.
+
+### Estudo e experimento:
+
+- IA Generativa
+- Modelos de linguagem
+- Agentes
+- Automação com IA
+- Assistentes
+- Integrações com APIs
+- Processamento de informações
+
+> **O problema vem primeiro. A IA entra quando realmente ajuda.**
+
+---
+
+# 🐧 Linux • 🐳 Infraestrutura
+
+Linux faz parte do meu ambiente de desenvolvimento, testes e experimentação.
 
 <div align="center">
 
-| Python | JavaScript | TypeScript | HTML5 | CSS3 | SQL | Bash |
-| :----: | :--------: | :--------: | :---: | :--: | :-: | :--: |
-|   🐍   |      ⚡     |     📘     |   🌐  |  🎨  | 🗄️ |  🐧  |
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
+
+### No dia a dia
+
+`Terminal` · `Shell` · `Docker` · `Git` · `Servidores` · `Automação` · `Deploy` · `Diagnóstico`
+
+---
+
+# 🔗 APIs & Integrações
+
+Gosto de fazer sistemas diferentes conversarem.
+
+- REST APIs
+- JSON
+- Webhooks
+- Autenticação
+- Integrações
+- Serviços externos
+- Uploads
+- Automação
+
+A ideia é simples:
+
+> **fazer sistemas diferentes trabalharem juntos.**
 
 ---
 
@@ -249,147 +408,174 @@ Sempre que possível, publico projetos de código aberto para que outros desenvo
 
 </div>
 
-### Principais habilidades
+### Interesses
 
-* Desenvolvimento de interfaces modernas
-* Aplicações responsivas
-* APIs REST
-* Integração Front-end e Back-end
-* Componentização
-* Otimização de desempenho
+- Interfaces modernas
+- Aplicações responsivas
+- Front-end
+- Back-end
+- APIs REST
+- Dashboards
+- Aplicações Full Stack
 
 ---
 
-# ⚙️ Automação
+# 🧠 Minha filosofia
+
+> **A melhor tecnologia é aquela que resolve o problema sem criar outro.**
+
+Uma boa solução precisa ser:
+
+**simples. · útil. · organizada. · sustentável.**
+
+Não quero apenas criar sistemas.
+
+Quero entender:
+
+**por que eles precisam existir.**
+
+---
+
+# 📚 Aprender fazendo
+
+Tecnologia muda.
+
+Ferramentas mudam.
+
+Projetos mudam.
+
+Por isso, meu processo também é contínuo:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,nodejs"/>
+### ESTUDAR
+↓
+### EXPERIMENTAR
+↓
+### CONSTRUIR
+↓
+### TESTAR
+↓
+### COMPARTILHAR
+↓
+### MELHORAR
 
 </div>
 
-### Experiência com
+---
 
-* Bots inteligentes
-* Automação de processos
-* Manipulação de arquivos
-* Organização automática de downloads
-* Agendamento de tarefas
-* Scripts para Linux
-* Integração entre serviços
-* APIs
+# 🚧 Projetos da jornada
+
+```text
+📁 DR9
+│
+├── 💬 Atendimento
+├── ⚙️ Automação
+├── 🤖 Inteligência Artificial
+├── 🔗 Integrações
+├── 📊 Processos
+├── 🌐 Aplicações Web
+├── 🐧 Linux
+├── 🐳 Infraestrutura
+├── 🧪 Experimentos
+└── 🌎 Open Source
+```
 
 ---
 
-# 🤖 Inteligência Artificial
+# 🎯 2026
 
-Tenho interesse em desenvolver soluções utilizando IA para aumentar produtividade, automatizar tarefas e criar ferramentas inteligentes.
+Meu objetivo não é simplesmente aprender mais tecnologias.
 
-### Áreas de estudo
+É **transformar conhecimento em coisas úteis.**
 
-* IA Generativa
-* Agentes Inteligentes
-* Processamento de linguagem natural
-* Automação com IA
-* Integração de modelos de linguagem
-* Assistentes inteligentes
+- 🚀 Evoluir a DR9 Gestão
+- 🧩 Criar soluções para pequenos negócios
+- ⚙️ Desenvolver novas automações
+- 🤖 Explorar aplicações práticas de IA
+- 🌎 Publicar projetos Open Source
+- 🐧 Evoluir em Linux e infraestrutura
+- 📚 Compartilhar conhecimento
+- 🏗️ Construir projetos reais
 
 ---
 
-# 🐧 Linux
+# 🌱 Mais do que tecnologia
+
+Eu gosto de tecnologia.
+
+Mas este perfil é sobre algo maior:
+
+### **Construir.**
+
+Construir projetos.
+
+Construir conhecimento.
+
+Construir soluções.
+
+Construir uma empresa.
+
+Construir uma jornada.
+
+E aprender com cada etapa.
+
+---
+
+# 🏔️ Grandes resultados começam pequenos
+
+Não acredito em começar perfeito.
+
+Acredito em:
+
+**começar → testar → errar → aprender → melhorar → continuar.**
+
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash"/>
+### **Primeiro entender.**
+### **Depois organizar.**
+### **Então construir.**
 
 </div>
 
-### Experiência
-
-* Fedora
-* Ubuntu
-* Debian
-* Terminal Linux
-* Shell Script
-* Administração de sistemas
-* Permissões
-* Serviços
-* Automação
-* Personalização
-
 ---
 
-# 🐳 DevOps
+# 🤝 Vamos construir?
+
+Se você gosta de tecnologia, negócios, automação, Linux, IA ou simplesmente gosta de transformar ideias em projetos:
+
+**seja bem-vindo.**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,git,github"/>
+<a href="https://github.com/romeiroceo">
+<img src="https://img.shields.io/badge/GitHub-Seguir%20a%20jornada-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/daniel-romeiro-9bb747418/">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/romeiroceo/">
+<img src="https://img.shields.io/badge/Instagram-@romeiroceo-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
-### Conhecimentos
-
-* Docker
-* Git
-* GitHub
-* Versionamento
-* Fluxo de desenvolvimento
-* Deploy
-* Containers
-
----
-
-# 🗄️ Banco de Dados
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase"/>
+### 👋 Eu sou o Daniel.
+
+**Estou construindo a DR9 Gestão.**
+
+**E ainda estou construindo muita coisa.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:001B44,50:0066FF,100:00D9FF"/>
 
 </div>
-
-### Experiência
-
-* MySQL
-* SQLite
-* Firebase
-* Modelagem de dados
-* Consultas SQL
-* Integração com aplicações
-
----
-
-# 🔗 APIs
-
-Especializado em integração de sistemas utilizando APIs REST.
-
-### Experiência
-
-* Consumo de APIs
-* Autenticação
-* JSON
-* Upload de arquivos
-* Webhooks
-* Integrações entre plataformas
-* Automação utilizando APIs
-
----
-
-# 🧰 Ferramentas Favoritas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,github,git,docker"/>
-
-</div>
-
-Utilizo ferramentas modernas para acelerar o desenvolvimento, manter qualidade no código e organizar projetos.
-
----
-
-# 📈 Sempre Evoluindo
-
-A tecnologia muda rapidamente, por isso estou sempre aprendendo novas linguagens, ferramentas e boas práticas para construir soluções cada vez mais completas.
-
-Meu foco é evoluir continuamente e aplicar esse conhecimento em projetos úteis para a comunidade.
-
----
