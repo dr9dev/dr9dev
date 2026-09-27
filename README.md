@@ -1,26 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:06121F,45:003B73,75:0066FF,100:00CFFF&text=DANIEL%20ROMEIRO&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=GEST%C3%83O%20%E2%80%A2%20PROCESSOS%20%E2%80%A2%20TECNOLOGIA&descAlignY=58&descSize=19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050B14,35:002B52,70:0066FF,100:00D9FF&text=DANIEL%20ROMEIRO&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=GEST%C3%83O%20%E2%80%A2%20PROCESSOS%20%E2%80%A2%20TECNOLOGIA&descAlignY=57&descSize=20"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=2300&color=00D9FF&center=true&vCenter=true&width=950&lines=Eu+ajudo+pequenos+neg%C3%B3cios+a+se+organizarem;Entender+%E2%86%92+Organizar+%E2%86%92+Construir+%E2%86%92+Evoluir;Gest%C3%A3o+%E2%80%A2+Processos+%E2%80%A2+Tecnologia;Tecnologia+quando+fizer+sentido.;Construindo+a+DR9+Gest%C3%A3o"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&pause=2200&color=00D9FF&center=true&vCenter=true&width=950&lines=Eu+ajudo+pequenos+neg%C3%B3cios+a+se+organizarem;Menos+improviso.+Mais+organiza%C3%A7%C3%A3o.;Gest%C3%A3o+%E2%80%A2+Processos+%E2%80%A2+Tecnologia;Primeiro+entender.+Depois+organizar.;Construindo+a+DR9+Gest%C3%A3o"/>
 
 <br><br>
 
-<a href="https://github.com/romeiroceo">
-<img src="https://img.shields.io/badge/GitHub-romeiroceo-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/daniel-romeiro-9bb747418/">
-<img src="https://img.shields.io/badge/LinkedIn-Daniel%20Romeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/romeiroceo/">
-<img src="https://img.shields.io/badge/Instagram-@romeiroceo-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<a href="https://github.com/romeiroceo"><img src="https://img.shields.io/badge/GitHub-romeiroceo-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/daniel-romeiro-9bb747418/"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Romeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/@DevDR9"><img src="https://img.shields.io/badge/YouTube-DevDR9-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@romeiroceo"><img src="https://img.shields.io/badge/TikTok-@romeiroceo-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=romeiroceo&style=for-the-badge&color=00BFFF"/>
+<a href="https://www.instagram.com/gestaodr9/"><img src="https://img.shields.io/badge/Instagram-@gestaodr9-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
@@ -28,98 +23,46 @@
 
 # 👋 Oi, eu sou o Daniel.
 
-**Eu gosto de tecnologia, mas meu ponto de partida não é a tecnologia. É o problema.**
+**Eu gosto de tecnologia. Mas começo pelo problema.**
 
-Pequenos negócios costumam crescer no meio da correria:
+Se você empreende pequeno, talvez reconheça isso:
 
-- 💬 atendimento espalhado
-- 📱 WhatsApp cheio
-- 📅 agendamentos perdidos
-- 📋 processos manuais
-- 🗂️ informações espalhadas
-- ⏱️ tempo gasto com tarefas repetitivas
+> 💬 Atendimento espalhado  
+> 📱 WhatsApp cheio  
+> 📅 Agendamentos perdidos  
+> 📋 Processos manuais  
+> 🗂️ Informações desorganizadas  
+> ⏱️ Tempo perdido com tarefas repetitivas
 
-Quando tudo isso começa a pesar, a pergunta não deveria ser apenas **“qual ferramenta usar?”**
+O negócio cresce, mas a organização nem sempre acompanha.
 
-A pergunta é:
-
-> **“O que está dificultando o negócio e como podemos tornar isso mais simples?”**
-
-É nesse espaço que gosto de trabalhar.
+**É aí que eu gosto de entrar.**
 
 ---
 
-# 🧭 Minha linha de trabalho
+# 🧭 O que eu faço
+
+Eu ajudo pequenos negócios a **organizar a operação, simplificar processos e ganhar clareza para crescer.**
+
+Não começo perguntando:
+
+**“Qual sistema você quer?”**
+
+Começo perguntando:
+
+**“O que está travando seu negócio hoje?”**
 
 <div align="center">
 
 ### 🔎 ENTENDER
 **↓**
-### 🧩 DIAGNOSTICAR
+### 🧩 ORGANIZAR
 **↓**
-### 📋 ORGANIZAR
-**↓**
-### ⚙️ CONSTRUIR
+### ⚙️ RESOLVER
 **↓**
 ### 🚀 EVOLUIR
 
 </div>
-
-<br>
-
-<table>
-<tr>
-<td width="20%" align="center">
-
-🔎
-
-### Entender
-
-Como o negócio funciona hoje?
-
-</td>
-
-<td width="20%" align="center">
-
-🧩
-
-### Diagnosticar
-
-Onde está o problema?
-
-</td>
-
-<td width="20%" align="center">
-
-📋
-
-### Organizar
-
-O que pode ser simplificado?
-
-</td>
-
-<td width="20%" align="center">
-
-⚙️
-
-### Construir
-
-Qual solução realmente faz sentido?
-
-</td>
-
-<td width="20%" align="center">
-
-🚀
-
-### Evoluir
-
-O que pode melhorar depois?
-
-</td>
-</tr>
-</table>
 
 > **A solução depende do problema.**
 
@@ -129,453 +72,179 @@ O que pode melhorar depois?
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DR9-GEST%C3%83O-0066FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/DR9-GEST%C3%83O-0066FF?style=for-the-badge"/>
 
-### Gestão • Processos • Tecnologia
+### Diagnóstico • Organização • Soluções
 
-**Soluções para quem empreende.**
-
-</div>
-
-A **DR9 Gestão** é o projeto empresarial que estou construindo a partir dessa visão.
-
-A proposta é aproximar **gestão, processos e tecnologia** da realidade de pequenos negócios.
-
-Não é começar vendendo uma ferramenta.
-
-É começar entendendo.
-
-<div align="center">
-
-`DIAGNÓSTICO` → `ORGANIZAÇÃO` → `SOLUÇÕES`
+**Gestão + Processos + Tecnologia**
 
 </div>
+
+A **DR9 Gestão** é o projeto que estou construindo para aproximar soluções de gestão e tecnologia da realidade de quem empreende pequeno.
+
+### O foco?
+
+**Tirar o negócio do improviso e colocar mais organização na operação.**
 
 ---
 
-# 💡 Tecnologia entra depois
+# 🚀 O que pode mudar o patamar de um negócio?
 
-Eu trabalho com desenvolvimento, automação, APIs, IA, Linux, Docker e sistemas.
+Não é necessariamente uma ferramenta nova.
 
-Mas não quero colocar tecnologia em um negócio apenas porque ela existe.
+Às vezes é:
 
-Quero usar tecnologia quando ela puder:
-
-<div align="center">
-
-| ⏱️ Economizar tempo | 🧩 Reduzir complexidade | 📋 Organizar processos | 🚀 Melhorar a operação |
-| :---: | :---: | :---: | :---: |
-
-</div>
+| 🔎 | 🧩 | ⚙️ | 📈 |
+|---|---|---|---|
+| **Entender** | **Organizar** | **Simplificar** | **Evoluir** |
+| descobrir o gargalo | criar um processo | automatizar o repetitivo | ganhar clareza |
 
 ### Exemplos
 
-| Situação | Caminho possível |
-| :--- | :--- |
-| Atendimento desorganizado | 💬 Processo + organização |
-| Tarefas repetitivas | ⚙️ Automação |
-| Informações espalhadas | 🗂️ Organização + sistema |
-| Sistemas que não conversam | 🔗 APIs + integrações |
-| Operação crescendo | 📊 Processos + ferramentas |
-| Necessidade específica | 💻 Desenvolvimento |
+**Atendimento** → mais organizado  
+**WhatsApp** → fluxo mais claro  
+**Instagram** → presença profissional  
+**Google** → negócio mais encontrável  
+**Processos** → menos improviso  
+**Automação** → menos trabalho repetitivo  
+**Sistemas** → operação mais estruturada
 
-> **Tecnologia não é o objetivo. É uma ferramenta para chegar a uma solução.**
+> **Primeiro organização. Depois tecnologia.**
 
 ---
 
-# 🚀 O que estou construindo
+# 💻 Tecnologia é ferramenta
 
-Este GitHub é o registro de uma jornada.
+Desenvolvimento, automação, APIs, IA, Linux, Docker e sistemas fazem parte do que construo.
 
-Aqui existem projetos que nasceram de:
+Mas a tecnologia só entra quando ela pode:
 
-**problemas reais → ideias → testes → código → melhorias.**
+**⏱️ economizar tempo**  
+**🧩 reduzir complexidade**  
+**📋 organizar processos**  
+**🚀 melhorar a operação**
 
-Alguns projetos estarão prontos.
+<div align="center">
 
-Outros estarão em desenvolvimento.
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,linux,bash,docker,git,github,html,css,react,nextjs"/>
 
-Alguns serão experimentos.
+</div>
 
-**Tudo isso faz parte de construir.**
+---
+
+# 🛠️ O que estou construindo
 
 ```text
-                 PROBLEMA
-                    │
-                    ▼
-               ENTENDER
-                    │
-                    ▼
-              ORGANIZAR
-                    │
-                    ▼
-               CONSTRUIR
-                    │
-                    ▼
-                TESTAR
-                    │
-                    ▼
-                MELHORAR
-                    │
-                    ▼
-                EVOLUIR
+                    PROBLEMA
+                       │
+                       ▼
+                    ENTENDER
+                       │
+                       ▼
+                   ORGANIZAR
+                       │
+                       ▼
+                    RESOLVER
+                       │
+                       ▼
+                    MELHORAR
+                       │
+                       ▼
+                     CRESCER
 ```
 
----
-
-# 🧰 O que gosto de construir
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-🤖
-
-### Automação
-
-Bots, scripts e ferramentas para reduzir trabalho repetitivo.
-
-</td>
-<td width="25%" align="center">
-
-🔗
-
-### Integrações
-
-APIs, webhooks e sistemas conectados.
-
-</td>
-<td width="25%" align="center">
-
-🖥️
-
-### Sistemas
-
-Aplicações, dashboards e ferramentas web.
-
-</td>
-<td width="25%" align="center">
-
-🐧
-
-### Linux
-
-Ambientes, servidores, scripts e automações.
-
-</td>
-</tr>
-<tr>
-<td width="25%" align="center">
-
-🧠
-
-### IA
-
-Aplicações práticas e experimentação.
-
-</td>
-<td width="25%" align="center">
-
-📊
-
-### Processos
-
-Soluções para organizar informações e operações.
-
-</td>
-<td width="25%" align="center">
-
-🐳
-
-### Infraestrutura
-
-Docker, ambientes e servidores.
-
-</td>
-<td width="25%" align="center">
-
-🌎
-
-### Open Source
-
-Projetos e conhecimento compartilhados.
-
-</td>
-</tr>
-</table>
-
----
-
-# 💻 Meu ambiente tecnológico
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,html,css,react,nextjs,express,tailwind"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,vscode,postman,mysql,sqlite,firebase"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Desenvolvimento** · **Automação** · **APIs** · **Linux** · **Docker** · **Banco de Dados** · **IA**
-
-</div>
-
----
-
-# ⚙️ Automação
-
-Uma das áreas que mais gosto de explorar.
-
-### Uso automação para:
-
-- 🤖 reduzir tarefas repetitivas
-- 📂 organizar arquivos e informações
-- 🔄 conectar serviços
-- 🔔 trabalhar com eventos e webhooks
-- 🌐 integrar APIs
-- ⏱️ automatizar rotinas
-- 💬 melhorar fluxos de atendimento
-
----
-
-# 🤖 Inteligência Artificial
-
-Tenho interesse em IA principalmente pela possibilidade de transformar processos complexos em experiências mais simples.
-
-### Estudo e experimento:
-
-- IA Generativa
-- Modelos de linguagem
-- Agentes
-- Automação com IA
-- Assistentes
-- Integrações com APIs
-- Processamento de informações
-
-> **O problema vem primeiro. A IA entra quando realmente ajuda.**
-
----
-
-# 🐧 Linux • 🐳 Infraestrutura
-
-Linux faz parte do meu ambiente de desenvolvimento, testes e experimentação.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
-
-### No dia a dia
-
-`Terminal` · `Shell` · `Docker` · `Git` · `Servidores` · `Automação` · `Deploy` · `Diagnóstico`
-
----
-
-# 🔗 APIs & Integrações
-
-Gosto de fazer sistemas diferentes conversarem.
-
-- REST APIs
-- JSON
-- Webhooks
-- Autenticação
-- Integrações
-- Serviços externos
-- Uploads
-- Automação
-
-A ideia é simples:
-
-> **fazer sistemas diferentes trabalharem juntos.**
-
----
-
-# 🌐 Desenvolvimento Web
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,express,react,nextjs,tailwind"/>
-
-</div>
-
-### Interesses
-
-- Interfaces modernas
-- Aplicações responsivas
-- Front-end
-- Back-end
-- APIs REST
-- Dashboards
-- Aplicações Full Stack
+Aqui você encontrará projetos relacionados a:
+
+- 🤖 Automação
+- 💬 Atendimento
+- 🔗 Integrações
+- 🌐 Sistemas
+- 🧠 Inteligência Artificial
+- 📊 Processos
+- 🐧 Linux
+- 🐳 Infraestrutura
+- 🌎 Open Source
 
 ---
 
 # 🧠 Minha filosofia
 
-> **A melhor tecnologia é aquela que resolve o problema sem criar outro.**
+> **Não quero colocar mais uma ferramenta no negócio. Quero entender o que ele precisa.**
 
-Uma boa solução precisa ser:
+Uma boa solução deve ser:
 
-**simples. · útil. · organizada. · sustentável.**
+**simples · útil · organizada · sustentável**
 
-Não quero apenas criar sistemas.
+E, principalmente:
 
-Quero entender:
-
-**por que eles precisam existir.**
+### **fazer sentido para quem usa.**
 
 ---
 
-# 📚 Aprender fazendo
+# 📈 O que estou construindo para o futuro
 
-Tecnologia muda.
+Meu objetivo é crescer junto com a DR9 e transformar conhecimento em soluções cada vez mais úteis para pequenos negócios.
 
-Ferramentas mudam.
+**Gestão.**
 
-Projetos mudam.
+**Processos.**
 
-Por isso, meu processo também é contínuo:
+**Tecnologia.**
+
+**Negócios mais organizados.**
+
+---
+
+# 🌱 Em construção
+
+Este perfil não é uma vitrine de algo pronto.
+
+É o registro de uma jornada.
+
+Estou aprendendo.
+
+Testando.
+
+Construindo.
+
+Errando.
+
+Melhorando.
+
+E colocando cada aprendizado em prática.
+
+---
 
 <div align="center">
 
-### ESTUDAR
-↓
-### EXPERIMENTAR
-↓
-### CONSTRUIR
-↓
-### TESTAR
-↓
-### COMPARTILHAR
-↓
-### MELHORAR
+# 🤝 Vamos conectar?
 
-</div>
+<a href="https://www.instagram.com/gestaodr9/">
+<img src="https://img.shields.io/badge/DR9%20Gest%C3%A3o-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
----
+<a href="https://www.youtube.com/@DevDR9">
+<img src="https://img.shields.io/badge/YouTube-DevDR9-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
-# 🚧 Projetos da jornada
-
-```text
-📁 DR9
-│
-├── 💬 Atendimento
-├── ⚙️ Automação
-├── 🤖 Inteligência Artificial
-├── 🔗 Integrações
-├── 📊 Processos
-├── 🌐 Aplicações Web
-├── 🐧 Linux
-├── 🐳 Infraestrutura
-├── 🧪 Experimentos
-└── 🌎 Open Source
-```
-
----
-
-# 🎯 2026
-
-Meu objetivo não é simplesmente aprender mais tecnologias.
-
-É **transformar conhecimento em coisas úteis.**
-
-- 🚀 Evoluir a DR9 Gestão
-- 🧩 Criar soluções para pequenos negócios
-- ⚙️ Desenvolver novas automações
-- 🤖 Explorar aplicações práticas de IA
-- 🌎 Publicar projetos Open Source
-- 🐧 Evoluir em Linux e infraestrutura
-- 📚 Compartilhar conhecimento
-- 🏗️ Construir projetos reais
-
----
-
-# 🌱 Mais do que tecnologia
-
-Eu gosto de tecnologia.
-
-Mas este perfil é sobre algo maior:
-
-### **Construir.**
-
-Construir projetos.
-
-Construir conhecimento.
-
-Construir soluções.
-
-Construir uma empresa.
-
-Construir uma jornada.
-
-E aprender com cada etapa.
-
----
-
-# 🏔️ Grandes resultados começam pequenos
-
-Não acredito em começar perfeito.
-
-Acredito em:
-
-**começar → testar → errar → aprender → melhorar → continuar.**
-
-<br>
-
-<div align="center">
-
-### **Primeiro entender.**
-### **Depois organizar.**
-### **Então construir.**
-
-</div>
-
----
-
-# 🤝 Vamos construir?
-
-Se você gosta de tecnologia, negócios, automação, Linux, IA ou simplesmente gosta de transformar ideias em projetos:
-
-**seja bem-vindo.**
-
-<div align="center">
-
-<a href="https://github.com/romeiroceo">
-<img src="https://img.shields.io/badge/GitHub-Seguir%20a%20jornada-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.tiktok.com/@romeiroceo">
+<img src="https://img.shields.io/badge/TikTok-@romeiroceo-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/daniel-romeiro-9bb747418/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Daniel%20Romeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/romeiroceo/">
-<img src="https://img.shields.io/badge/Instagram-@romeiroceo-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ### 👋 Eu sou o Daniel.
 
-**Estou construindo a DR9 Gestão.**
+**Construindo a DR9 Gestão.**
 
-**E ainda estou construindo muita coisa.**
+**Ajudando pequenos negócios a organizar o que trava o crescimento.**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:001B44,50:0066FF,100:00D9FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050B14,45:003B73,75:0066FF,100:00D9FF"/>
 
 </div>
